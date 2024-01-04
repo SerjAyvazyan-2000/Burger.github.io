@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e9109b3-5651-4e62-95a3-83e8b40aef05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aboutUs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/JS/animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/JS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/JS/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/flex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Montserratarm-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/+.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/CaretLeft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/CaretRight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/FRI.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/FacebookLogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Gyuxakan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Idram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/InstagramLogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ShoppingCart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/SoxiOxakner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/TexasBurger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/_.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/aboutMobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/aboutUs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/arrowDown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/baner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/breakfast1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/breakfast2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/breakfast3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/breakfast4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgerSlide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgerSlide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgerSlide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgerSlide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgerSlide5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgerSlide6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgerSlide7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/burgers9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/close.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/colse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/deliveryAtWork.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/deliveryMan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/detailsImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/drinks1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/drinks2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/drinks3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/drinks4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/footerLogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/footerOutLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kaxamariOxakner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kaxamariOxakner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/moadlSuccess.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/mobileClose.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/modalError.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nagtes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ourTeam9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/outTeam6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pageArrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/parallax1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/parallax2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/parallax3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/parallax4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/parallax5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/parallax6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/remove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/salads1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/salads2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/salads3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sandwich3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sandwich4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sandwiches1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sandwiches2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sandwiches3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sandwiches4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sandwiches5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sandwiches6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sandwiches7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sliderArrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/telsel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tkankYou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/traced.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/visaArca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/webStart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categoriesDetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productDetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thankYou.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZDFZUrwJ2PO0WkXXmMzzrxLmzh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/WEBSTART/QueenBurger&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\WEBSTART\QueenBurger\assets" />
+      <recent name="C:\Users\Lenovo\Desktop\QueenBurger\assets" />
+      <recent name="C:\Users\Lenovo\Desktop\QueenBurger\assets\images" />
+      <recent name="C:\Users\Lenovo\Desktop\QueenBurger" />
+      <recent name="C:\Users\Lenovo\Desktop\QueenBurger\assets\jpegImages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\WEBSTART\QueenBurger\assets\images" />
+      <recent name="C:\Users\Lenovo\Desktop\QueenBurger\assets\css" />
+      <recent name="C:\Users\Lenovo\Desktop\QueenBurger\assets" />
+      <recent name="C:\Users\Lenovo\Desktop\QueenBurger\assets\images" />
+      <recent name="C:\Users\Lenovo\Desktop\QueenBurger\assets\jpegImages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e9109b3-5651-4e62-95a3-83e8b40aef05" name="Changes" comment="" />
+      <created>1701948798472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701948798472</updated>
+      <workItem from="1701948799485" duration="1224000" />
+      <workItem from="1701950081153" duration="13824000" />
+      <workItem from="1701974905545" duration="9156000" />
+      <workItem from="1702016169276" duration="27076000" />
+      <workItem from="1702059885198" duration="2796000" />
+      <workItem from="1702107513971" duration="2417000" />
+      <workItem from="1702113860446" duration="7836000" />
+      <workItem from="1702142508420" duration="1306000" />
+      <workItem from="1702145350476" duration="1449000" />
+      <workItem from="1702147407471" duration="2000" />
+      <workItem from="1702151813188" duration="38000" />
+      <workItem from="1702193398049" duration="8036000" />
+      <workItem from="1702222478611" duration="266000" />
+      <workItem from="1702274043134" duration="26643000" />
+      <workItem from="1702319134299" duration="37000" />
+      <workItem from="1702319223556" duration="966000" />
+      <workItem from="1702447790045" duration="27797000" />
+      <workItem from="1702493872043" duration="5664000" />
+      <workItem from="1702534426965" duration="25087000" />
+      <workItem from="1702622278209" duration="2752000" />
+      <workItem from="1702637748221" duration="14329000" />
+      <workItem from="1702660200564" duration="65000" />
+      <workItem from="1702670088922" duration="1907000" />
+      <workItem from="1702841261443" duration="21093000" />
+      <workItem from="1702896208556" duration="14089000" />
+      <workItem from="1702921993609" duration="1820000" />
+      <workItem from="1702966991064" duration="25620000" />
+      <workItem from="1703008760184" duration="608000" />
+      <workItem from="1703053785370" duration="28357000" />
+      <workItem from="1703091907854" duration="1224000" />
+      <workItem from="1703139257422" duration="19865000" />
+      <workItem from="1703181408707" duration="2771000" />
+      <workItem from="1703225217610" duration="350000" />
+      <workItem from="1703239714321" duration="10442000" />
+      <workItem from="1703255940371" duration="1617000" />
+      <workItem from="1703258097140" duration="428000" />
+      <workItem from="1703273629004" duration="17000" />
+      <workItem from="1703594185656" duration="1640000" />
+      <workItem from="1703596296250" duration="12000" />
+      <workItem from="1703604330678" duration="590000" />
+      <workItem from="1703612465965" duration="3884000" />
+      <workItem from="1703620301517" duration="108000" />
+      <workItem from="1703663550727" duration="596000" />
+      <workItem from="1703672201153" duration="85000" />
+      <workItem from="1703672412994" duration="379000" />
+      <workItem from="1703672928379" duration="4527000" />
+      <workItem from="1703677693633" duration="102000" />
+      <workItem from="1703677904902" duration="203000" />
+      <workItem from="1703678412279" duration="90000" />
+      <workItem from="1703681943108" duration="21000" />
+      <workItem from="1703832941457" duration="182000" />
+      <workItem from="1704354504972" duration="1911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/JS/index.js</url>
+          <line>66</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/JS/index.js</url>
+          <line>226</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/JS/index.js</url>
+          <line>35</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/JS/index.js</url>
+          <line>99</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/JS/index.js</url>
+          <line>114</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/JS/animation.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/JS/animation.js</url>
+          <line>102</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/JS/index.js</url>
+          <line>88</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assets/JS/index.js</url>
+          <line>295</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
